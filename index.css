@@ -1,0 +1,101 @@
+*
+{
+    background-color: bisque;
+}
+
+.p1
+{
+    background-color: white;
+    font-style:italic;
+    color:black;
+}
+.p2
+{
+    background-color: blue;
+    font-style: italic;
+    color: white;
+}
+.p3
+{
+ background-color:green ;
+ font-style:italic;
+ color: blue;
+}
+.p4
+{
+    background-color: yellow;
+    font-style: italic;
+    color: green;
+}
+.p1#ia
+{
+    background-color: red;
+    font-style: italic;
+    color: yellow; 
+}
+.p1#ib
+{
+    background-color: violet;
+    font-style: italic;
+    color: red;
+}
+.p1#ic
+{
+    background-color: aqua;
+    font-style:italic ;
+    color:violet;
+}
+.p1#id
+{
+    background-color: orange;
+    font-style: italic;
+    color: aqua;
+}
+#i5
+{
+    background-color:brown;
+    font-style: italic;
+    color: orange;
+}
+#ie
+{
+    background-color: goldenrod;
+    font-style: italic;
+    color:brown;
+}
+#if
+{
+    background-color: black;
+    font-style: italic;
+    color: goldenrod;
+}
+#ig
+{
+    background-color: pink;
+    font-style: italic;
+    color:black;
+}
+.p5
+{
+    background-color: chocolate;
+    font-style: italic;
+    color: pink;
+}
+.p6
+{
+    background-color: coral;
+    font-style: italic;
+    color: black;  
+}
+.p7
+{
+    background-color:olive;
+    font-style: italic;
+    color: coral;
+}
+.p8
+{
+    background-color: gray;
+    font-style: italic;
+    color:white;
+}
